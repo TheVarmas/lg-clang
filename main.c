@@ -7,4 +7,5 @@ int main(){
     printf("The value of s is %s", foo);
 
     return 0;
+    
 }
