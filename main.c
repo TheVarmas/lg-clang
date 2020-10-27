@@ -4,8 +4,8 @@ int main(){
     char *foo = "Aanya";
 
     printf("The value of p is %d and that of q is %d\n", p, q);
-    printf("The value of s is %s", foo);
+    printf("The value of foo is %s", foo);
 
     return 0;
-    
+
 }
